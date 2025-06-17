@@ -11,9 +11,6 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 
     var window: UIWindow?
 
-
-    var window: UIWindow?
-    
     private var networkService: NetworkingService!
     
     func scene(
