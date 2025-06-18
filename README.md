@@ -37,6 +37,6 @@ Once the application is running, you can:
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 ## Image
-[Counties App Image](https://github.com/Enkee-U/CountriesApp/blob/50a99d9e60390e202e93bd4ba9511f3b104bbb4d/Counties%20App.jpg)
+![image](https://github.com/Enkee-U/CountriesApp/blob/dac8321d006726a6e37c8d914fe0fa537a26d3ea/Counties%20App.jpg)
 ## 📽 Demo
-[![Watch the video]](https://vimeo.com/1094217256)
+![Watch the video](https://vimeo.com/1094217256)
