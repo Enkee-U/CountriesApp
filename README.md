@@ -39,4 +39,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## Image
 ![image](https://github.com/Enkee-U/CountriesApp/blob/dac8321d006726a6e37c8d914fe0fa537a26d3ea/Counties%20App.jpg)
 ## 📽 Demo
-![Watch the video](https://vimeo.com/1094217256)
+[![Watch the video]](https://vimeo.com/1094217256)
